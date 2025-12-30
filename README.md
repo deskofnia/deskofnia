@@ -11,4 +11,6 @@
 [<img src="https://img.shields.io/badge/-GeeksforGeeks-E5E5E5?style=flat-square&logo=GeeksforGeeks&logoColor=black" />](https://auth.geeksforgeeks.org/user/deven027/profile)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-squaree&logo=LeetCode&logoColor=black" />](https://leetcode.com/deskofnia)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/deven27)
+[<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=Blue" />](https://www.hackerearth.com/@devendrasinghrathod/)
+
 
